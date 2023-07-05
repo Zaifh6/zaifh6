@@ -51,7 +51,7 @@ Hi There!!. My name is Muhammad Huzaifa and i am a dataAs a data analyst with a 
 
 ### Github Stats
 
-*Note: The "Top languages" section does not reflect my skill level or proficiency in specific programming languages. It is a metric provided by GitHub that showcases the languages in which I have the most code repositories. [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+*Note: The "Top languages" section does not reflect my skill level or proficiency in specific programming languages. It is a metric provided by GitHub that showcases the languages in which I have the most code repositories. [github-readme-stats](https://github.com/Zaifh6/github-readme-stats)
 
 <p align="center">
 <a href="https://github.com/emshaheer1">
