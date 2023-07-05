@@ -4,7 +4,7 @@
 <div align="center">
  <p align="center">Let's connect!</p>
  <a href="https://linktr.ee/huzaifaafzal">
-    <img src="https://img.shields.io/badge/Linktree-Visit%20My%20Profile-green?style=for-the-badge&logo=linktree"/>
+    <img src="https://img.shields.io/badge/Linktree-black?style=for-the-badge&logo=linktree"/>
  </a>
  <a href="https://instagram.com/g3rtxe">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
