@@ -36,15 +36,15 @@ Hi There!!. My name is Muhammad Huzaifa and i am a dataAs a data analyst with a 
 
 
 ### Technologies and Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=NumPy&logoColor=white&labelColor=grey&color=silver)
-![Pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoColor=white&labelColor=grey&color=silver)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Servers
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=grey&color=silver)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=Windows&logoColor=white)
