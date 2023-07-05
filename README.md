@@ -57,14 +57,14 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 ![Medium](https://img.shields.io/badge/Medium-Follow%20Me-black?style=for-the-badge&logo=medium)
 ![Medium](https://img.shields.io/badge/Medium-EasiestWayToUploadCSVDataFilesIntoColab-<COLOR>?style=for-the-badge&logo=medium)
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/Zaifh6" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaifh6&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Zaifh6" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zaifh6&layout=compact&langs_count=8&theme=react"/>
-  </a>
-  <a href="https://github.com/Zaifh6" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaifh6&theme=react&hide_border=true" alt="my commit status" width="100%"/>
-  </a>
-</div>
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
+- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
+- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
