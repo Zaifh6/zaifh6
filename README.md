@@ -36,25 +36,22 @@ Hi There!!. My name is Muhammad Huzaifa and i am a dataAs a data analyst with a 
 
 
 ### Technologies and Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=NumPy&logoColor=white&labelColor=grey&color=silver)
+![Pandas](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoColor=white&labelColor=grey&color=silver)
 
 ### Servers
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=grey&color=silver)
 
 ### OS
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=Windows&logoColor=white)
 
 ### Github Stats
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+*Note: The "Top languages" section does not reflect my skill level or proficiency in specific programming languages. It is a metric provided by GitHub that showcases the languages in which I have the most code repositories. [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://github.com/emshaheer1">
