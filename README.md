@@ -31,7 +31,7 @@ Hi There!!. My name is Muhammad Huzaifa and i am a dataAs a data analyst with a 
 - 📧 You can also mail me: huzikhan123456@gmail.com
 
 ### Languages
-![C++]((https://img.shields.io/badge/C++))
+![C++](https://img.shields.io/badge/C++-Powered%20by%20C%2B%2B-blue?style=flat-square&logo=C%2B%2B)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
