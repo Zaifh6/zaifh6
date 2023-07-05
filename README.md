@@ -59,12 +59,12 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 
 <p align="center">
 <a href="https://github.com/Zaifh6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emshaheer1&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaifh6&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zaifh6&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emshaheer1&theme=react&hide_border=true" alt="my commit status" width="49%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaifh6&theme=react&hide_border=true" alt="my commit status" width="49%" /> 
 </p>
 
