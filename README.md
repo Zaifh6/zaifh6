@@ -58,9 +58,9 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 ![Medium](https://img.shields.io/badge/Medium-EasiestWayToUploadCSVDataFilesIntoColab-<COLOR>?style=for-the-badge&logo=medium)
 
 <p align="center">
-<a href="https://github.com/emshaheer1">
+<a href="https://github.com/Zaifh6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emshaheer1&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emshaheer1&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zaifh6&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
