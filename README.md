@@ -30,6 +30,10 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-327656233/)
 - 📧 You can also mail me: huzikhan123456@gmail.com
 
+
+### Projects
+![Data Science Projects](https://img.shields.io/badge/Data%20Science-Projects-brightgreen?style=for-the-badge&logo=datacamp)
+
 ### Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=grey&color=silver)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,9 +53,9 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=Windows&logoColor=white)
 
-### Github Stats
-
-*Note: The "Top languages" section does not reflect my skill level or proficiency in specific programming languages. It is a metric provided by GitHub that showcases the languages in which I have the most code repositories. [github-readme-stats](https://github.com/Zaifh6/github-readme-stats)
+### Medium Articles
+![Medium](https://img.shields.io/badge/Medium-Follow%20Me-black?style=for-the-badge&logo=medium)
+![Medium](https://img.shields.io/badge/Medium-EasiestWayToUploadCSVDataFilesIntoColab-<COLOR>?style=for-the-badge&logo=medium)
 
 <p align="center">
 <a href="https://github.com/emshaheer1">
