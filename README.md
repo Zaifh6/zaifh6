@@ -54,7 +54,7 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 ![Windows](https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=Windows&logoColor=white)
 
 ### Medium Articles
-![Medium](https://img.shields.io/badge/Medium-Follow%20Me-black?style=for-the-badge&logo=medium)
+[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-black?style=for-the-badge&logo=medium)](https://medium.com/@HuzaifaAfzal)
 <!-- BLOG-POST-LIST:START -->
 - [Easiest Way To Upload CSV Data Files Into Colab](https://medium.com/@HuzaifaAfzal/easiest-way-to-upload-csv-data-files-into-colab-3c81f3bb943d)
 - 
