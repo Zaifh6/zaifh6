@@ -30,6 +30,7 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-327656233/)
 - 📧 You can also mail me: huzikhan123456@gmail.com
 
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange?style=for-the-badge)](path/to/your/resume.pdf)
 
 ### Projects
 ![Data Science Projects](https://img.shields.io/badge/Data%20Science-Projects-brightgreen?style=for-the-badge&logo=datacamp)
@@ -42,6 +43,8 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 ### Technologies and Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+
 
 ### Servers
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
