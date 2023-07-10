@@ -27,8 +27,8 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 - 🌱 I’m currently learning Data Analysis.
 - 👯 I’m looking to collaborate on Data Science Projects (Pandas Projects & NumPy).
 - 💬 Ask me about anything.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-327656233/)
-- 📧 You can also mail me: huzikhan123456@gmail.com
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-327656233/)
+- 📧 You can also mail me : huzikhan123456@gmail.com
 
 [![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange?style=for-the-badge)](path/to/your/resume.pdf)
 
