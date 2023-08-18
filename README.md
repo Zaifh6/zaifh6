@@ -33,7 +33,7 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 [![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange?style=for-the-badge)](path/to/your/resume.pdf)
 
 ### Projects
-![Data Science Projects](https://img.shields.io/badge/Data%20Science-Projects-brightgreen?style=for-the-badge&logo=datacamp)
+[![Data Science Projects](https://img.shields.io/badge/Data%20Science-Projects-brightgreen?style=for-the-badge&logo=datacamp)](https://zaifh6.github.io/zaifh6/)
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=grey&color=silver)
