@@ -39,6 +39,8 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=grey&color=silver)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### Tools
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white&labelColor=grey&color=green)
 
 ### Technologies and Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy)
