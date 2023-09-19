@@ -31,6 +31,8 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 - 📧 You can also mail me : [huzikhan123456@gmail.com](mailto:huzikhan123456@gmail.com)
 
 ![View My Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange?style=for-the-badge&link=https://drive.google.com/file/d/1CWRjQnGtV0l5xJ-sf7z7UuJdiqK2tlw4/view)
+[Click here to view my resume](https://drive.google.com/file/d/1CWRjQnGtV0l5xJ-sf7z7UuJdiqK2tlw4/view)
+
 
 ## Projects
 
