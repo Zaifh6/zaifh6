@@ -30,11 +30,11 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-327656233/)
 - 📧 You can also mail me : [huzikhan123456@gmail.com](mailto:huzikhan123456@gmail.com)
 
-![View My Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange?style=for-the-badge)
+![View My Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange?style=for-the-badge&link=https://drive.google.com/file/d/1CWRjQnGtV0l5xJ-sf7z7UuJdiqK2tlw4/view)
 
 ## Projects
 
-![Data Science Projects](https://img.shields.io/badge/Data%20Science-Projects-brightgreen?style=for-the-badge&logo=datacamp)
+[![Data Science Projects](https://img.shields.io/badge/Data%20Science-Projects-brightgreen?style=for-the-badge&logo=datacamp)](https://zaifh6.github.io/zaifh6/)
 
 ## Programming Languages
 
@@ -54,8 +54,8 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 
 ## Database
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ## OS
 
 ![Windows](https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=Windows&logoColor=white)
