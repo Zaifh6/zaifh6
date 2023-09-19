@@ -29,6 +29,8 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 - 💬 Ask me about anything.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-327656233/)
 - 📧 You can also mail me : [huzikhan123456@gmail.com](mailto:huzikhan123456@gmail.com)
+
+
 [![View My Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-orange?style=for-the-badge)](https://drive.google.com/file/d/1CWRjQnGtV0l5xJ-sf7z7UuJdiqK2tlw4/view)
 
 
