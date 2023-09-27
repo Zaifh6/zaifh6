@@ -23,7 +23,7 @@
 
 Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion for uncovering insights and delivering data-driven solutions, I am excited to share my work and journey with you. With a solid foundation in statistical analysis, data visualization, and database management, I am proficient in tools such as Python, SQL, and Excel. I pride myself on my strong communication and problem-solving skills, which allow me to collaborate effectively with colleagues and stakeholders to identify business needs and drive success. I am dedicated to continually learning and growing my skills, and I am eager to contribute to the success of any organization I work with.
 
-- 🔭 I’m currently working on Database Management (Using MySQL).
+- 🔭 I’m currently working on Data Visualization (Using PowerBI).
 - 🌱 I’m currently learning Data Analysis.
 - 👯 I’m looking to collaborate on Data Science Projects (Pandas Projects & NumPy).
 - 💬 Ask me about anything.
