@@ -52,6 +52,9 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 ## Medium Articles
 
 - [Easiest Way To Upload CSV Data Files Into Colab](https://medium.com/@HuzaifaAfzal/easiest-way-to-upload-csv-data-files-into-colab-3c81f3bb943d)
