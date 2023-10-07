@@ -52,12 +52,6 @@ Hi There!!. My name is Muhammad Huzaifa and i am a data analyst with a passion f
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Skills
-
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=grey&color=silver) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=python&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-
-
-
 ## Medium Articles
 
 - [Easiest Way To Upload CSV Data Files Into Colab](https://medium.com/@HuzaifaAfzal/easiest-way-to-upload-csv-data-files-into-colab-3c81f3bb943d)
