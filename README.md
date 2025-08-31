@@ -1,4 +1,4 @@
-# Muhammad Huzaifa | Data Analyst & Problem Solver 📊
+# Muhammad Huzaifa | AI/Data Engineer 📊
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Student+%7C+Visionary;Transforming+Data+into+Insights;Python+%7C+SQL+%7C+Power+BI+Expert" alt="Typing SVG" />
