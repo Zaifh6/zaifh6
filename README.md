@@ -82,7 +82,7 @@ I regularly share insights and tutorials on **Medium** to help the AI/Data commu
 
 📝 **Featured Articles:**
 - [**Easiest Way To Upload CSV Data Files Into Colab**](https://medium.com/@HuzaifaAfzal/easiest-way-to-upload-csv-data-files-into-colab-3c81f3bb943d) - *Streamlining data import workflows*
-- [**How to Merge Different CSV Files in a Single DataFrame**]([https://medium.com/@HuzaifaAfzal/how-to-merge-different-csv-files-in-a-single-dataframe-872f412d01c0](https://xxdql-my.sharepoint.com/:f:/g/personal/hamza_xxdql_onmicrosoft_com/Eu4D_01bNfVFsiOJJnpyeEYB5wN3qsm6X02h2k1_MJ8Jkw?e=vWE8co)) - *Data consolidation techniques*
+- [**How to Merge Different CSV Files in a Single DataFrame**](https://xxdql-my.sharepoint.com/:f:/g/personal/hamza_xxdql_onmicrosoft_com/Eu4D_01bNfVFsiOJJnpyeEYB5wN3qsm6X02h2k1_MJ8Jkw?e=vWE8co) - *Data consolidation techniques*
 
 [![Medium](https://img.shields.io/badge/📚_Read_More-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@HuzaifaAfzal)
 
