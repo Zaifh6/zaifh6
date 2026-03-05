@@ -1,4 +1,4 @@
-# Muhammad Huzaifa
+[# Muhammad Huzaifa
 **AI & Data Engineer** · Peshawar, Pakistan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-afzal-259390373/)
@@ -93,3 +93,4 @@ Institute of Management Sciences, Peshawar
 
 - [Complete Data Science, ML, Deep Learning & NLP Bootcamp](https://www.udemy.com/certificate/UC-3c142aaa-8eb9-4418-95b7-ce9a51228db4/) — Udemy
 - [AI Engineer Core Track: LLM Engineering, RAG, QLoRA & Agents](https://www.udemy.com/certificate/UC-fe9c151a-c469-4251-a3c1-3549fe3cba2b/) — Udemy
+](https://www.researchgate.net/publication/401380286_A_Framework_for_Source-Traceable_Retrieval-Augmented_Generation)
