@@ -1,126 +1,95 @@
-# Muhammad Huzaifa | AI/Data Engineer 📊
+# Muhammad Huzaifa
+**AI & Data Engineer** · Peshawar, Pakistan
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Engineer+%7C+Student;Transforming+Data+into+Intelligent+Solutions;Python+%7C+LLMs+%7C+RAG+%7C+Data+Pipelines" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-Passionate **AI/Data Engineer** with expertise in building intelligent systems and delivering data-driven solutions that drive business success. I specialize in LLM fine-tuning, RAG implementations, embedding databases, and robust data pipeline architectures, combining cutting-edge AI technologies with traditional data engineering practices.
-
-**What sets me apart:**
-- 🔍 **AI Innovation:** I excel at fine-tuning LLMs and building sophisticated RAG systems for intelligent applications
-- 🎯 **Pipeline Architecture:** Expert in designing scalable data pipelines and database solutions (relational & non-relational)
-- 📈 **Continuous Learner:** Always expanding my skillset in AI/ML technologies and data engineering best practices
-- 🤝 **Collaborative:** Excellent communication skills for working with cross-functional teams on complex AI projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-afzal-259390373/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://huziportfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:huzaifaafzal654321@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=zaifh6&style=flat-square&color=0e75b6)
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 **Working On:** LLM Fine-tuning projects and Advanced RAG implementations with embedding databases
-- 👯 **Collaborating:** Open to **AI Engineering**, **Data Pipeline**, and **LLM** projects
-- 🌱 **Learning:** Advanced embedding techniques, Vector databases, and MLOps practices
-- 💡 **Goal:** Contributing to impactful AI-driven solutions and scalable data infrastructure
+I build RAG systems, LLM pipelines, and data infrastructure. Currently working on agentic AI and production-grade retrieval systems.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Experience
 
-### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-2E8B57?style=for-the-badge&logoColor=white)
+**Data Engineer** · Devblock Studios Pvt Ltd *(Nov 2024 – Dec 2025)*
+- Designed PostgreSQL databases for Australian government projects including the Fair Work Commission AI agent and an Australian Muslim community platform; improved query performance by 40% through advanced indexing
+- Built RAG-based retrieval systems with embedding and reranking models, managing 500K+ daily records across PostgreSQL, MongoDB, and Qdrant; reduced retrieval time by 35%
 
-### **Data Engineering & Analysis**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### **Databases & Vector Stores**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-
-### **Programming & Infrastructure**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Associate Data Engineer** · ZoueTech Pvt Ltd *(Sep 2023 – Nov 2024)*
+- Built end-to-end ETL workflows and designed PostgreSQL databases from ERD to production across relational, NoSQL, and vector databases
+- Developed RAG systems, LLM fine-tuning pipelines, and MCP integrations; automated business processes using n8n and Make.com
 
 ---
 
-## 📊 Featured Projects
+## Projects
 
-<div align="center">
+**Fair Work Commission AI Lawyer** · [Case Study](#)
+> RAG-based AI legal assistant for Australian employment law with Qdrant vector DB, MCP integration, and custom LLM fine-tuning on a legal corpus. Semantic search with embedding models and reranking for high-accuracy case law retrieval.
 
-[![AI/Data Engineering Portfolio](https://img.shields.io/badge/🤖_AI_Engineering-Portfolio-brightgreen?style=for-the-badge&logoColor=white)](https://zaifh6.github.io/zaifh6/)
-
-*Explore my comprehensive collection of AI engineering and data pipeline projects*
-
-</div>
-
-### 🏆 Project Highlights
-- **LLM Fine-tuning Pipeline** - Custom fine-tuned language models with 90%+ task-specific accuracy
-- **RAG System with Vector DB** - Intelligent document retrieval system using embedding databases
-- **Real-time Data Pipeline** - Scalable ETL pipeline processing 1M+ records daily
-- **Multi-Modal AI Assistant** - RAG-powered chatbot with document understanding capabilities
-- **Database Optimization Suite** - Query optimization reducing processing time by 60% across SQL/NoSQL systems
+**Hadith Knowledge Retrieval System** · [Case Study](#)
+> Ingestion pipeline for 400K+ Hadiths and 3.8M records with multi-language support (Arabic, English, Urdu). Normalized 45-table PostgreSQL schema with narrator chain linkages. Deployed on Railway and Supabase.
 
 ---
 
-## ✍️ Technical Writing & Knowledge Sharing
+## Research
 
-I regularly share insights and tutorials on **Medium** to help the AI/Data community:
-
-📝 **Featured Articles:**
-- [**Easiest Way To Upload CSV Data Files Into Colab**](https://medium.com/@HuzaifaAfzal/easiest-way-to-upload-csv-data-files-into-colab-3c81f3bb943d) - *Streamlining data import workflows*
-- [**How to Merge Different CSV Files in a Single DataFrame**](https://xxdql-my.sharepoint.com/:f:/g/personal/hamza_xxdql_onmicrosoft_com/Eu4D_01bNfVFsiOJJnpyeEYB5wN3qsm6X02h2k1_MJ8Jkw?e=vWE8co) - *Data consolidation techniques*
-
-[![Medium](https://img.shields.io/badge/📚_Read_More-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@HuzaifaAfzal)
+**A Framework for Source-Traceable Retrieval-Augmented Generation** · [View Preprint](#)
+*Preprint (In Progress) — ResearchGate*
+> Proposes a provenance-aware RAG framework for passage-level traceability and reduced hallucination via metadata-linked embeddings.
 
 ---
 
-## 📄 Professional Documents
+## Skills
 
-<div align="center">
+**Languages**
 
-[![Resume](https://img.shields.io/badge/📋_View-Resume-orange?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1CWRjQnGtV0l5xJ-sf7z7UuJdiqK2tlw4/view)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-*Download my complete professional profile and AI engineering experience*
+**AI & LLMs**
 
-</div>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8B?style=flat-square&logoColor=white)
+
+**Techniques**
+
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0097A7?style=flat-square&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-E91E63?style=flat-square&logoColor=white)
+![SFT](https://img.shields.io/badge/Fine--Tuning%20(SFT)-43A047?style=flat-square&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+
+**Cloud & Infra**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Education
 
-I'm always interested in discussing AI projects, LLM applications, data engineering challenges, and exploring collaboration opportunities!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-327656233/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzikhan123456@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/huzaifaafzal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g3rtxe)
-
-</div>
+**BS in Data Science** · GPA: 3.25/4.0
+Institute of Management Sciences, Peshawar
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaifh6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  **"The best way to predict the future is to invent it, and AI is the tool that makes invention limitless."**
-</div>
+## Certifications
 
----
-
-⭐ **If you find my work valuable, please consider starring my repositories!**
+- [Complete Data Science, ML, Deep Learning & NLP Bootcamp](https://www.udemy.com/certificate/UC-3c142aaa-8eb9-4418-95b7-ce9a51228db4/) — Udemy
+- [AI Engineer Core Track: LLM Engineering, RAG, QLoRA & Agents](https://www.udemy.com/certificate/UC-fe9c151a-c469-4251-a3c1-3549fe3cba2b/) — Udemy
