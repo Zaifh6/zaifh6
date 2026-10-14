@@ -1,8 +1,7 @@
-# Abdul Nafay
+# Muhammad Huzaifa
 **AI & Data Engineer** · Peshawar, Pakistan
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=zaifh6&style=flat-square&color=0e75b6)
 
 ---
 
